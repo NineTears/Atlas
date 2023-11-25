@@ -996,7 +996,7 @@ function ChatFrame_OnEvent(event)
 			local msg, v, remoteversion = Atlas_strsplit(":", arg1)
 			if msg == "Atlas" then
 				local remoteversion = tonumber(remoteversion)
-				if remoteversion >= 40000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
+				if remoteversion >= 11200 then remoteversion = 0 end --Block for people using some version from another version of WoW.
 				if v == "VERSION" and remoteversion then
 					if remoteversion > localversion then
 						Atlas_updateavailable = remoteversion
@@ -1016,7 +1016,7 @@ Atlas_updater:SetScript("OnEvent", function()
 	if event == "CHAT_MSG_ADDON" and arg1 == "Atlas" then
 		local v, remoteversion = Atlas_strsplit(":", arg2)
 		local remoteversion = tonumber(remoteversion)
-		if remoteversion >= 40000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
+		if remoteversion >= 11200 then remoteversion = 0 end --Block for people using some version from another version of WoW.
 		if v == "VERSION" and remoteversion then
 			if remoteversion > localversion then
 				Atlas_updateavailable = remoteversion
