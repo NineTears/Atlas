@@ -1,17 +1,17 @@
 ## Interface: 11200
-## Title: Atlas |cff7fff7f -Ace2-|r
-## Notes: Atlas: instance Map Browser
+## Title: Atlas 副本地图(Wind汉化修复)
+## Notes: |CFF00FF00AtlasQuest|R|N显示副本地图。
 ## Notes-deDE: Instanzkarten-Browser
 ## Notes-frFR: Navigateur de cartes d'instances
-## Notes-zhTW: 副本地圖集, 瀏覽各副本、戰場地圖以及飛行地圖
-## Notes-zhCN: 副本地图浏览器
+## Notes-zhTW: |CFF00FF00AtlasQuest|R|N显示副本地图。
+## Notes-zhCN: |CFF00FF00AtlasQuest|R|N显示副本地图。
 ## Notes-esES: Navegador de Mapas de Mazmorras
 ## Notes-ruRU: Обозреватель подземелий
-## Version: 1.13.0 TurtleWOW Edition
-## X-Date: 24.06.2023
+## Version: 1.13.1
+## X-Date: 02.11.2023
 ## Author: Shahopriest
 ## X-Email: m4r3lk4@gmail.com
-## X-Website: 
+## X-Website: https://forum.turtle-wow.org/viewtopic.php?t=7958
 ## X-Category: Map
 ## X-OptionsFrame: AtlasOptionsFrame
 ## SavedVariables: AtlasOptions
