@@ -29,11 +29,11 @@
 -- Now externally localized!
 
 local AL = AceLibrary("AceLocale-2.2"):new("Atlas");
-local BC = AceLibrary("Babble-Class-2.2a")
-local BZ = AceLibrary("Babble-Zone-2.2a")
-local BB = AceLibrary("Babble-Boss-2.2a")
-local BF = AceLibrary("Babble-Faction-2.2a")
-local BIS = AceLibrary("Babble-ItemSet-2.2a")
+local BC = AceLibrary("Babble-Class-2.2-Atlas")
+local BZ = AceLibrary("Babble-Zone-2.2-Atlas")
+local BB = AceLibrary("Babble-Boss-2.2-Atlas")
+local BF = AceLibrary("Babble-Faction-2.2-Atlas")
+local BIS = AceLibrary("Babble-ItemSet-2.2-Atlas")
 
 local BLUE = "|cff6666ff";
 local GREY = "|cff999999";

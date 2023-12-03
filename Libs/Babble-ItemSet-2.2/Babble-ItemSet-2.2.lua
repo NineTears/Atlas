@@ -9,9 +9,9 @@
 
 -- Wind汉化修复Turtle-WOW中文数据
 -- https://github.com/NineTears/Libs-Turtle-zhCN
--- Last update: 2023-11-25
+-- Last update: 2023-12-03
 
-local MAJOR_VERSION = "Babble-ItemSet-2.2a"
+local MAJOR_VERSION = "Babble-ItemSet-2.2-Atlas"
 local MINOR_VERSION = tonumber(string.sub("$Revision: 1000 $", 12, -3))
 
 if not AceLibrary then error(MAJOR_VERSION .. " requires AceLibrary") end
@@ -226,7 +226,7 @@ BabbleItemSet:RegisterTranslations("enUS", function()
 
 		-- Wind汉化修复Turtle-WOW-zhCN端
 		-- https://github.com/NineTears/Atlas-Turtle-zhCN
-		-- Last update: 2023-11-25
+		-- Last update: 2023-12-03
 
 		-- Blacksmithing Crafted Sets
 		["Bloodsoul Embrace"]  = "血魂之拥",
