@@ -1,7 +1,7 @@
 ## Interface: 11200
 ## Title: |CFF33AAFF[辅助]|RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R
-## Notes: |RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R|N中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
-## Notes-zhCN: |RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R|N中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
+## Notes: Atlas 副本地图 |cffcccccc[Turtle-WoW]|R|N中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
+## Notes-zhCN: Atlas 副本地图 |cffcccccc[Turtle-WoW]|R|N中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
 ## Notes-deDE: Instanzkarten-Browser
 ## Notes-frFR: Navigateur de cartes d'instances
 ## Notes-zhTW: |CFF33AAFF[辅助]|RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R
@@ -10,7 +10,7 @@
 ## Notes-ruRU: Обозреватель подземелий
 ## Version: 1.13.1
 ## X-Date: 02.11.2023
-## Author: Shahopriest
+## Author: Shahopriest,|cff33ffccNineTears(Wind)|R
 ## X-Email: m4r3lk4@gmail.com
 ## X-Website: https://forum.turtle-wow.org/viewtopic.php?t=7958
 ## X-Category: Map
