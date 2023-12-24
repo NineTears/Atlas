@@ -1,10 +1,11 @@
 ## Interface: 11200
-## Title: Atlas 副本地图(Wind汉化修复)
-## Notes: |CFF00FF00AtlasQuest|R|N显示副本地图。
+## Title: |CFF33AAFF[辅助]|RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R
+## Notes: |RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R|N中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
+## Notes-zhCN: |RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R|N中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
 ## Notes-deDE: Instanzkarten-Browser
 ## Notes-frFR: Navigateur de cartes d'instances
-## Notes-zhTW: |CFF00FF00AtlasQuest|R|N显示副本地图。
-## Notes-zhCN: |CFF00FF00AtlasQuest|R|N显示副本地图。
+## Notes-zhTW: |CFF33AAFF[辅助]|RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R
+## Notes-zhCN: |CFF33AAFF[辅助]|RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R
 ## Notes-esES: Navegador de Mapas de Mazmorras
 ## Notes-ruRU: Обозреватель подземелий
 ## Version: 1.13.1
