@@ -152,8 +152,7 @@ AtlasMaps = {
 		PlayerLimit = "5";
 		Continent = AL["Eastern Kingdoms"];
 		{ BLUE.."A) "..AL["Entrance"] };
-		{ BLUE.."B) "..AL["Lower"] };
-		{ BLUE.."C) "..AL["Upper"] };
+		{ BLUE.."B - Lower, C - Upper" };
 		{ GREY.."1) "..AL["High Foreman Bargul Blackhammer"], NPC, 60735 };
 		{ GREY.."2) "..AL["Engineer Figgles"], NPC, 60736 };
 		{ GREY.."3) "..AL["Corrosis"], NPC, 60829 };
@@ -180,8 +179,8 @@ AtlasMaps = {
 		{ GREY.."5) "..AL["Archlich Enkhraz"], NPC, 91916 };
 		{ GREY.."6) "..AL["Commander Andreon"], NPC, 91919 }; -- Commander Andreon not Commander Anderson. AtlasLoot name misstake
 		{ GREY.."7) "..AL["Alarus"], NPC, 91928 };
-		{ GREY..INDENT..AL["Half-Buried Treasure Chest"], OBJECT, 379545 };
 		{ "" };
+		{ GREY..INDENT..AL["Half-Buried Treasure Chest"], OBJECT, 379545 };
 		{ GREY..INDENT..AL["Trash Mobs"] };
 	};
 	--CavernsOfTimeBlackMorass TurtleWOW
