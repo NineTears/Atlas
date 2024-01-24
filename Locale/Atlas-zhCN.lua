@@ -102,7 +102,7 @@ AtlasZoneSubstitutions = {
 	["The Temple of Atal'Hakkar"] = "沉没的神庙";
 };
 
-AL:RegisterTranslations("zhCN", function() return {
+AL:RegisterTranslations("zhCN"; function() return {
 	
 	--************************************************
 	-- Zone Names, Acronyms, and Common Strings
@@ -180,7 +180,7 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Summon"]  = "召唤";
 	["Teleport"]  = "传送";
 	["through "]  = "通过";
-    ["Trash Mobs"] = "普通怪物",
+    ["Trash Mobs"] = "普通怪物";
 	["Unknown"]  = "未知";
 	["Varies"]  = "多个位置";
 	["Various"]  = "各种各样的";
@@ -191,7 +191,7 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Cathedral"]  = "大教堂";
 	["Graveyard"]  = "墓地";
 	["Library"]  = "图书馆";
-	["Sunken Temple"]  = "沉没的神庙";
+	["Sunken Temple"]  = "[50-60] 沉没的神庙";
 	
 	--Set names
 	["Set: "]  = "套装：";
@@ -228,7 +228,7 @@ AL:RegisterTranslations("zhCN", function() return {
 
 	--Stormwind Vault
 	["Arc'tiras"]  = "阿克提阿斯"; -- TurtleWOW
-	["Arc'tiras / Vault Armory Equipment"]  = "阿克提阿斯 / 宝库军械库设备"; -- TurtleWOW
+	["Arc'tiras / Vault Armory Equipment"]  = "阿克提阿斯 / 避难所军械库设备"; -- TurtleWOW
 
 	--Razorfen Kraul
 	["Razorfen Spearhide"]  = "剃刀沼泽刺鬃守卫";
@@ -247,7 +247,7 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Nekrum Gutchewer"]  = "耐克鲁姆";
 	["Dustwraith"]  = "灰尘怨灵";
 	["Sergeant Bly"]  = "布莱中士";
-	["Shadowpriest Sezz'ziz"] = "暗影祭司塞瑟斯",
+	["Shadowpriest Sezz'ziz"] = "暗影祭司塞瑟斯";
 	["Weegli Blastfuse"]  = "维格利";
 	["Murta Grimgut"]  = "穆尔塔";
 	["Raven"]  = "拉文";
@@ -630,7 +630,7 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Keetar"]  = "基塔尔";
 	["Arch Druid Renferal"]  = "大德鲁伊雷弗拉尔";
 	["Dun Baldar North Bunker"]  = "丹巴达尔北部碉堡";
-	["Wing Commander Mulverick"]  = "空军指挥官穆维里克";
+	["Wing Commander Mulverick"]  = "空军指挥官穆维里克";--omitted from AVS
 	["Murgot Deepforge"]  = "穆尔高特·深炉";
 	["Dirk Swindle"]  = "迪尔克·斯温德尔";
 	["Athramanis"]  = "阿斯拉曼尼斯";
@@ -643,9 +643,9 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Stormpike Quartermaster"]  = "雷矛军需官";
 	["Jonivera Farmountain"]  = "乔尼维拉·农山";
 	["Brogus Thunderbrew"]  = "布洛冈·雷酒";
-	["Wing Commander Ichman"]  = "空军指挥官艾克曼";
-	["Wing Commander Slidore"]  = "空军指挥官斯里多尔";
-	["Wing Commander Vipore"]  = "空军指挥官维波里";
+	["Wing Commander Ichman"]  = "空军指挥官艾克曼";--omitted from AVS
+	["Wing Commander Slidore"]  = "空军指挥官斯里多尔";--omitted from AVS
+	["Wing Commander Vipore"]  = "空军指挥官维波里";--omitted from AVS
 	["Dun Baldar South Bunker"]  = "丹巴达尔南部碉堡";
 	["Corporal Noreg Stormpike"]  = "诺雷格·雷矛下士";
 	["Gaelden Hammersmith"]  = "盖尔丁·哈迷斯";
@@ -653,9 +653,9 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Icewing Cavern"]  = "冰翼洞穴";
 	["Stormpike Banner"]  = "雷矛军旗";
 	["Stormpike Lumber Yard"]  = "雷矛伐木场";
-	["Wing Commander Jeztor"]  = "空军指挥官杰斯托";
+	["Wing Commander Jeztor"]  = "空军指挥官杰斯托";--omitted from AVS
 	["Icewing Bunker"]  = "冰翼碉堡";
-	["Wing Commander Guse"]  = "空军指挥官古斯";
+	["Wing Commander Guse"]  = "空军指挥官古斯";--omitted from AVS
 	["Stonehearth Graveyard"]  = "石爪墓地";
 	["Stonehearth Outpost"]  = "石爪哨站";
 	["Captain Balinda Stonehearth"]  = "巴琳达·石爪队长";
@@ -671,10 +671,10 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Eastern Crater"]  = "东部火山口";
 	["Slidore's Beacon"]  = "斯里多尔的信标";
 	["Guse's Beacon"]  = "古斯的信标";
-	["Graveyards, Capturable Areas"]  = "墓地，可占领区域";
-	["Bunkers, Towers, Destroyable Areas"]  = "碉堡，塔楼，可摧毁区域";
-	["Assault NPCs, Quest Areas"]  = "突袭NPC，任务区域";
-	["Steamsaw"]  = "蒸汽锯";
+	["Graveyards, Capturable Areas"]  = "墓地，可占领区域";--omitted from AVS
+	["Bunkers, Towers, Destroyable Areas"]  = "碉堡，塔楼，可摧毁区域";--omitted from AVS
+	["Assault NPCs, Quest Areas"]  = "突袭NPC，任务区域";--omitted from AVS
+	["Steamsaw"]  = "蒸汽锯";--omitted from AVS
 	
 	--Alterac Valley (South)
 	["Frostwolf Clan"]  = "霜狼氏族";
@@ -778,7 +778,7 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Tarren Mill"]  = "塔伦米尔";
 	["Thalanaar"]  = "萨兰纳尔";
 	["The Sepulcher"]  = "瑟伯切尔";
-	["The Shimmering Flats"] = "闪光平原",
+	["The Shimmering Flats"] = "闪光平原";
 	["Thelsamar"]  = "塞尔萨玛";
 	["Theramore Isle"]  = "塞拉摩岛";
 	["Thorium Point"]  = "瑟银哨塔";
@@ -1081,7 +1081,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Damian"] = "戴米安";
 		["Volkan Cruelblade"] = "沃肯·冷刃";
 		["Arc'tiras"] = "阿克提阿斯";
-		["Vault Armory Equipment"] = "宝库军械库设备";
+		["Vault Armory Equipment"] = "避难所军械库设备";
 		-- GilneasCity TurtleWOW 1.17.0
 		["Matthias Holtz"] = "马蒂亚斯·霍尔茨";
 		["Packmaster Ragetooth"] = "兽群首领怒牙";
@@ -1239,27 +1239,27 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Azshara"] = "艾萨拉";
 		["Badlands"] = "荒芜之地";
 		["The Barrens"] = "贫瘠之地";
-		["The Black Morass"] = "黑色沼泽";
-		["Black Morass"] = "黑色沼泽"; -- TurtleWOW
-		["Blackfathom Deeps"] = "黑暗深渊";
-		["Blackrock Depths"] = "黑石深渊";
+		["The Black Morass"] = "[60] |CFF00FF00黑色沼泽"; --TurtleWOW
+		["Black Morass"] = "[60] |CFF00FF00黑色沼泽"; -- TurtleWOW
+		["Blackfathom Deeps"] = "[23-32] 黑暗深渊";
+		["Blackrock Depths"] = "[52-60] 黑石深渊";
 		["Blackrock Mountain"] = "黑石山";
-		["Blackrock Spire"] = "黑石塔";
-		["Blackwing Lair"] = "黑翼之巢";
+		["Blackrock Spire"] = "[55-60] 黑石塔";
+		["Blackwing Lair"] = "|CFFFF0000[团队]|R 黑翼之巢";
 		["Blasted Lands"] = "诅咒之地";
 		["Booty Bay"] = "藏宝海湾";
 		["Burning Steppes"] = "燃烧平原";
-		["The Crescent Grove"] = "新月林地"; -- TurtleWOW
+		["The Crescent Grove"] = "[32-38] |CFF00FF00新月林地"; -- TurtleWOW
 		["Darkshore"] = "黑海岸";
 		["Darnassus"] = "达纳苏斯";
-		["The Deadmines"] = "死亡矿井";
+		["The Deadmines"] = "[17-24] 死亡矿井";
 		["Deadwind Pass"] = "逆风小径";
 		["Deeprun Tram"] = "矿道地铁";
 		["Desolace"] = "凄凉之地";
-		["Dire Maul"] = "厄运之槌";
-		["Dire Maul (East)"] = "厄运之槌 (东)";
-		["Dire Maul (West)"] = "厄运之槌 (西)";
-		["Dire Maul (North)"] = "厄运之槌 (北)";
+		["Dire Maul"] = "[55-60] 厄运之槌";
+		["Dire Maul (East)"] = "[55-60] 厄运之槌 (东)";
+		["Dire Maul (West)"] = "[57-60] 厄运之槌 (西)";
+		["Dire Maul (North)"] = "[57-60] 厄运之槌 (北)";
 		["Dun Morogh"] = "丹莫罗";
 		["Durotar"] = "杜隆塔尔";
 		["Duskwood"] = "暮色森林";
@@ -1267,81 +1267,81 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Eastern Kingdoms"] = "东部王国";
 		["Eastern Plaguelands"] = "东瘟疫之地";
 		["Elwynn Forest"] = "艾尔文森林";
-		["Emerald Sanctum"] = "翡翠圣殿";
+		["Emerald Sanctum"] = "|CFFFF0000[团队] |CFF00FF00翡翠圣殿"; -- TurtleWOW
 		["Everlook"] = "永望镇";
 		["Felwood"] = "费伍德森林";
 		["Feralas"] = "菲拉斯";
 		["The Forbidding Sea"] = "禁忌之海";
 		["Gadgetzan"] = "加基森";
 		["Gates of Ahn'Qiraj"] = "安其拉之门";
-		["Gilneas"] = "吉尔尼斯";
-		["Gilneas City"] = "吉尔尼斯城";
-		["Gnomeregan"] = "诺莫瑞根";
+		["Gilneas"] = "吉尔尼斯"; --TurtleWOW
+		["Gilneas City"] = "[42-50] |CFF00FF00吉尔尼斯城"; --TurtleWOW
+		["Gnomeregan"] = "[29-38] 诺莫瑞根";
 		["The Great Sea"] = "无尽之海";
 		["Grom'gol Base Camp"] = "格罗姆高营地";
 		["Hall of Legends"] = "传说大厅";
-		["Hateforge Quarry"] = "仇恨熔炉采石场";
+		["Hateforge Quarry"] = "[50-60] |CFF00FF00仇恨熔炉采石场"; -- TurtleWOW
 		["Hillsbrad Foothills"] = "希尔斯布莱德丘陵";
 		["The Hinterlands"] = "辛特兰";
 		["Hyjal"] = "海加尔山";
 		["Ironforge"] = "铁炉堡";
 		["Kalimdor"] = "卡利姆多";
-		["Karazhan"] = "卡拉赞";
-		["Karazhan Crypt"] = "卡拉赞墓穴";
+		["Karazhan"] = "卡拉赞"; -- TurtleWOW
+		["Karazhan Crypt"] = "[58-60] |CFF00FF00卡拉赞墓穴"; -- TurtleWOW
 		["Loch Modan"] = "洛克莫丹";
-		["Lower Blackrock Spire"] = "黑石塔下层";
-		["Lower Karazhan Halls"] = "卡拉赞下层大厅"; -- TurtleWOW
-		["Maraudon"] = "玛拉顿";
+		["Lower Blackrock Spire"] = "[55-60] 黑石塔下层";
+		["Lower Karazhan Halls"] = "|CFFFF0000[团队] |CFF00FF00卡拉赞下层大厅"; -- TurtleWOW
+		["Maraudon"] = "[45-55] 玛拉顿";
 		["Menethil Harbor"] = "米奈希尔港";
-		["Molten Core"] = "熔火之心";
+		["Molten Core"] = "|CFFFF0000[团队]|R 熔火之心";
 		["Moonglade"] = "月光林地";
 		["Mulgore"] = "莫高雷";
-		["Naxxramas"] = "纳克萨玛斯";
-		["Onyxia's Lair"] = "奥妮克希亚的巢穴";
+		["Naxxramas"] = "|CFFFF0000[团队]|R 纳克萨玛斯";
+		["Onyxia's Lair"] = "|CFFFF0000[团队]|R 奥妮克希亚的巢穴";
 		["Orgrimmar"] = "奥格瑞玛";
 		["Ratchet"] = "棘齿城";
-		["Ragefire Chasm"] = "怒焰裂谷";
-		["Razorfen Downs"] = "剃刀高地";
-		["Razorfen Kraul"] = "剃刀沼泽";
+		["Ragefire Chasm"] = "[13-18] 怒焰裂谷";
+		["Razorfen Downs"] = "[36-46] 剃刀高地";
+		["Razorfen Kraul"] = "[29-38] 剃刀沼泽";
 		["Redridge Mountains"] = "赤脊山";
-		["Ruins of Ahn'Qiraj"] = "安其拉废墟";
-		["Scarlet Monastery"] = "血色修道院";
-		["Scarlet Monastery Cathedral"] = "血色修道院-大教堂";
-		["Scarlet Monastery Armory"] = "血色修道院-军械库";
-		["Scarlet Monastery Library"] = "血色修道院-图书馆";
-		["Scarlet Monastery Graveyard"] = "血色修道院-墓地";
-		["Scholomance"] = "通灵学院";
+		["Ruins of Ahn'Qiraj"] = "|CFFFF0000[团队]|R 安其拉废墟";
+		["Scarlet Monastery"] = "[27-45] 血色修道院";
+		["Scarlet Monastery Cathedral"] = "[35-45] 血色修道院-大教堂"; -- TurtleWOW
+		["Scarlet Monastery Armory"] = "[32-41] 血色修道院-军械库"; -- TurtleWOW
+		["Scarlet Monastery Library"] = "[28-39] 血色修道院-图书馆"; -- TurtleWOW
+		["Scarlet Monastery Graveyard"] = "[27-36] 血色修道院-墓地"; -- TurtleWOW
+		["Scholomance"] = "[58-60] 通灵学院";
 		["Searing Gorge"] = "灼热峡谷";
-		["Shadowfang Keep"] = "影牙城堡";
+		["Shadowfang Keep"] = "[22-30] 影牙城堡";
 		["Silithus"] = "希利苏斯";
 		["Silverpine Forest"] = "银松森林";
-		["The Stockade"] = "监狱";
+		["The Stockade"] = "[22-30] 监狱";
 		["Stonetalon Mountains"] = "石爪山脉";
 		["Stormwind City"] = "暴风城";
-		["Stormwind Vault"] = "暴风城地牢";
+		["Stormwind Vault"] = "[60] |CFF00FF00暴风城地牢"; -- TurtleWOW
 		["Stranglethorn Vale"] = "荆棘谷";
-		["Stratholme"] = "斯坦索姆";
+		["Stratholme"] = "[58-60] 斯坦索姆";
 		["Swamp of Sorrows"] = "悲伤沼泽";
 		["Tanaris"] = "塔纳利斯";
 		["Teldrassil"] = "泰达希尔";
-		["Temple of Ahn'Qiraj"] = "安其拉神殿";
+		["Temple of Ahn'Qiraj"] = "|CFFFF0000[团队]|R 安其拉神殿";
 		["The Temple of Atal'Hakkar"] = "阿塔哈卡神庙";
 		["Theramore Isle"] = "塞拉摩岛";
 		["Thousand Needles"] = "千针石林";
 		["Thunder Bluff"] = "雷霆崖";
 		["Tirisfal Glades"] = "提瑞斯法林地";
-		["Uldaman"] = "奥达曼";
+		["Uldaman"] = "[40-51] 奥达曼";
 		["Un'Goro Crater"] = "安戈洛环形山";
 		["Undercity"] = "幽暗城";
-		["Upper Blackrock Spire"] = "黑石塔上层";
-		["Wailing Caverns"] = "哀嚎洞穴";
+		["Upper Blackrock Spire"] = "[58-60] 黑石塔上层";
+		["Wailing Caverns"] = "[17-24] 哀嚎洞穴";
 		["Warsong Gulch"] = "战歌峡谷";
 		["Western Plaguelands"] = "西瘟疫之地";
 		["Westfall"] = "西部荒野";
 		["Wetlands"] = "湿地";
 		["Winterspring"] = "冬泉谷";
-		["Zul'Farrak"] = "祖尔法拉克";
-		["Zul'Gurub"] = "祖尔格拉布";
+		["Zul'Farrak"] = "[44-54] 祖尔法拉克";
+		["Zul'Gurub"] = "|CFFFF0000[团队]|R 祖尔格拉布";
 
 		-- Burning Crusade
 		
@@ -1349,8 +1349,8 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Plaguewood"] = "病木林";
 		["Hellfire Citadel"] = "地狱火堡垒";
 		["Auchindoun"] = "奥金顿";
-		["The Bone Wastes"] = "白骨荒野";
-		["Coilfang Reservoir"] = "盘牙水库";
+		["The Bone Wastes"] = "白骨荒野"; -- Substitute for Auchindoun, since this is what shows on the minimap.
+		["Coilfang Reservoir"] = "盘牙水库"; -- Not used yet.
 
 		["Azuremyst Isle"] = "秘蓝岛";
 		["Bloodmyst Isle"] = "秘血岛";
