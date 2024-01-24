@@ -102,7 +102,7 @@ AtlasZoneSubstitutions = {
 	["The Temple of Atal'Hakkar"] = "沉没的神庙";
 };
 
-AL:RegisterTranslations("zhCN"; function() return {
+AL:RegisterTranslations("zhCN", function() return {
 	
 	--************************************************
 	-- Zone Names, Acronyms, and Common Strings
@@ -1389,5 +1389,4 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Karazhan"] = "卡拉赞";
 		["Caverns of Time"] = "时光之穴";
 		["Zul'Aman"] = "祖阿曼";
-
 } end)
