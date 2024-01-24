@@ -1,15 +1,15 @@
 ## Interface: 11200
-## Title: |CFF33AAFF[辅助]|RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R
-## Title-zhCN: |CFF33AAFF[辅助]|RAtlas 副本地图 |cffcccccc[Turtle-WoW]|R
-## Notes: Atlas 副本地图 |cffcccccc[Turtle-WoW]|R中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
-## Notes-zhCN: Atlas 副本地图 |cffcccccc[Turtle-WoW]|R中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
+## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.21]|R
+## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.21]|R
+## Notes: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
+## Notes-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
 ## Notes-deDE: Instanzkarten-Browser
 ## Notes-frFR: Navigateur de cartes d'instances
-## Notes-zhTW: Atlas 副本地图 |cffcccccc[Turtle-WoW]|R中文端汉化修复由|cff33ffccNineTears(Wind)|R完成。
+## Notes-zhTW: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
 ## Notes-esES: Navegador de Mapas de Mazmorras
 ## Notes-ruRU: Обозреватель подземелий
-## Version: 1.13.1
-## X-Date: 02.11.2023
+## Version: 1.13.2
+## X-Date: 22.01.2024
 ## Author: Shahopriest,|cff33ffccNineTears(Wind)|R
 ## X-Email: m4r3lk4@gmail.com
 ## X-Website: https://forum.turtle-wow.org/viewtopic.php?t=7958
@@ -22,11 +22,9 @@ Libs\AceLibrary\AceLibrary.lua
 Libs\AceOO-2.0\AceOO-2.0.lua
 Libs\AceAddon-2.0\AceAddon-2.0.lua
 Libs\AceLocale-2.2\AceLocale-2.2.lua
-Libs\Babble-Boss-2.2\Babble-Boss-2.2.lua
 Libs\Babble-Class-2.2\Babble-Class-2.2.lua
 Libs\Babble-Faction-2.2\Babble-Faction-2.2.lua
 Libs\Babble-ItemSet-2.2\Babble-ItemSet-2.2.lua
-Libs\Babble-Zone-2.2\Babble-Zone-2.2.lua
 
 Locale\Atlas-enUS.lua
 Locale\Atlas-deDE.lua
