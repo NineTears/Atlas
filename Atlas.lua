@@ -383,14 +383,14 @@ ATLAS_OLD_ZONE = false;
 --Initializes everything relating to saved variables and data in other lua files
 --This should be called ONLY when we're sure our variables are in memory
 function Atlas_Init()
-
+	--[[ TurtleWOW fix for zUI bottom right action bar bug disable this part
 	--fix for certain UI elements that appear on top of the Atlas window
 	MultiBarBottomLeft:SetFrameStrata("MEDIUM");
 	MultiBarBottomRight:SetFrameStrata("MEDIUM");
 	MultiBarLeft:SetFrameStrata("MEDIUM");
 	MultiBarRight:SetFrameStrata("MEDIUM");
 	MainMenuBarOverlayFrame:SetFrameStrata("MEDIUM");
-
+	--]]
 	
 	--clear saved vars for a new version (or a new install!)
 	if ( AtlasOptions == nil or AtlasOptions["AtlasVersion"] ~= ATLAS_VERSION) then
@@ -996,7 +996,7 @@ function ChatFrame_OnEvent(event)
 			local msg, v, remoteversion = Atlas_strsplit(":", arg1)
 			if msg == "Atlas" then
 				local remoteversion = tonumber(remoteversion)
-				if remoteversion > 11200 then remoteversion = 0 end --Block for people using some version from another version of WoW.
+				if remoteversion >= 40000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
 				if v == "VERSION" and remoteversion then
 					if remoteversion > localversion then
 						Atlas_updateavailable = remoteversion
@@ -1016,7 +1016,7 @@ Atlas_updater:SetScript("OnEvent", function()
 	if event == "CHAT_MSG_ADDON" and arg1 == "Atlas" then
 		local v, remoteversion = Atlas_strsplit(":", arg2)
 		local remoteversion = tonumber(remoteversion)
-		if remoteversion > 11200 then remoteversion = 0 end --Block for people using some version from another version of WoW.
+		if remoteversion >= 40000 then remoteversion = 0 end --Block for people using some version from another version of WoW.
 		if v == "VERSION" and remoteversion then
 			if remoteversion > localversion then
 				Atlas_updateavailable = remoteversion
