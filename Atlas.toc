@@ -1,6 +1,6 @@
 ## Interface: 11200
-## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.21]|R
-## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.21]|R
+## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.22]|R
+## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.22]|R
 ## Notes: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
 ## Notes-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
 ## Notes-deDE: Instanzkarten-Browser
