@@ -195,7 +195,7 @@ AtlasMaps = {
 		{ BLUE.."A) "..AL["Entrance"] };
 		{ BLUE.."B) " };
 		{ GREY.."1) "..AL["Chronar"], NPC, 65113 };
-		{ GREY.."(已移除) "..AL["Harbinger Aph'ygth"], NPC, 65114 };
+		{ GREY.."已移除) "..AL["Harbinger Aph'ygth"], NPC, 65114 };
 		{ GREY.."2) "..AL["Epidamu"], NPC, 61575 };
 		{ GREY.."3) "..AL["Drifting Avatar of Sand"], NPC, 61316 };
 		{ GREY.."4) "..AL["Time-Lord Epochronos"], NPC, 65116 };
