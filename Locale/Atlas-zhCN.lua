@@ -606,7 +606,7 @@ AL:RegisterTranslations("zhCN", function() return {
 	--Battlegrounds
 	
 	--Places
-	["Friendly Reputation Rewards"]  = "友好声望奖励";
+	["Friendly Reputation Rewards"]  = "友善声望奖励";
 	["Honored Reputation Rewards"]  = "尊敬声望奖励";
 	["Revered Reputation Rewards"]  = "崇敬声望奖励";
 	["Exalted Reputation Rewards"]  = "崇拜声望奖励";
