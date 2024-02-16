@@ -711,6 +711,7 @@ AL:RegisterTranslations("enUS", function() return {
 	["Captain Balinda Stonehearth"] = true;
 	["Snowfall Graveyard"] = true;
 	["Korrak the Bloodrager"] = true;
+	["Ivus & Lokholar"] = true;
 	["Ichman's Beacon"] = true;
 	["Mulverick's Beacon"] = true;
 	["Stonehearth Bunker"] = true;
@@ -1997,6 +1998,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 	["Captain Balinda Stonehearth"]  = "巴琳达·石爪队长";
 	["Snowfall Graveyard"]  = "雪落墓地";
 	["Korrak the Bloodrager"]  = "血怒者科尔拉克";
+	["Ivus & Lokholar"] = "伊弗斯 & 洛克霍拉",
 	["Ichman's Beacon"]  = "艾克曼的信标";
 	["Mulverick's Beacon"]  = "穆维里克的信标";
 	["Stonehearth Bunker"]  = "石爪碉堡";

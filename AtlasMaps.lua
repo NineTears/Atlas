@@ -1740,6 +1740,8 @@ AtlasMaps = {
 		{ GREN..INDENT..AL["Honored Reputation Rewards"] };
 		{ GREN..INDENT..AL["Revered Reputation Rewards"] };
 		{ GREN..INDENT..AL["Exalted Reputation Rewards"] };
+		{ GREY..INDENT..AL["Korrak the Bloodrager"] };
+		{ GREY..INDENT..AL["Ivus & Lokholar"] };
 		{ "" };
 		{ _RED..AL["Red"]..": ".._RED..AL["Graveyards, Capturable Areas"] };
 		{ ORNG..AL["Orange"]..": "..ORNG..AL["Bunkers, Towers, Destroyable Areas"] };
@@ -1802,6 +1804,8 @@ AtlasMaps = {
 		{ GREN..INDENT..AL["Honored Reputation Rewards"] };
 		{ GREN..INDENT..AL["Revered Reputation Rewards"] };
 		{ GREN..INDENT..AL["Exalted Reputation Rewards"] };
+		{ GREY..INDENT..AL["Korrak the Bloodrager"] };
+		{ GREY..INDENT..AL["Ivus & Lokholar"] };
 		{ "" };
 		{ _RED..AL["Red"]..": ".._RED..AL["Graveyards, Capturable Areas"] };
 		{ ORNG..AL["Orange"]..": "..ORNG..AL["Bunkers, Towers, Destroyable Areas"] };
