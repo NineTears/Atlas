@@ -254,7 +254,7 @@ elseif GetLocale() == "zhCN" then
 	COMMANDS = "Commands"
 	
 	ABOUT = "关于"
-	PRINT_ADDON_INFO = "印列出插件信息"
+	PRINT_ADDON_INFO = "打印插件信息"
 	
 	CATEGORIES = {
 		["Action Bars"] = "动作条",
@@ -410,8 +410,8 @@ else -- enUS
 	CREDITS = "Credits"
 	COMMANDS = "Commands"
 	
-	ABOUT = "About"
-	PRINT_ADDON_INFO = "Print out addon info"
+	ABOUT = "关于"
+	PRINT_ADDON_INFO = "打印插件信息"
 	
 	CATEGORIES = {
 		["Action Bars"] = "Action Bars",
