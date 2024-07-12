@@ -1,16 +1,12 @@
 ## Interface: 11200
-## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.22]|R
-## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星1.22]|R
-## Notes: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
-## Notes-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
-## Notes-deDE: Instanzkarten-Browser
-## Notes-frFR: Navigateur de cartes d'instances
-## Notes-zhTW: |CFF33AAFFAtlas |R副本地图 |cffff1450[红星]|R中文端由|cff33ffccNineTears(Wind)|R汉化修复。
-## Notes-esES: Navegador de Mapas de Mazmorras
-## Notes-ruRU: Обозреватель подземелий
+## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.23]|R
+## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.23]|R
+## Notes: |CFF33AAFFAtlas |R副本地图 |中文端由|cff33ffccWind|R汉化修复。
+## Notes-zhCN: |CFF33AAFFAtlas |R副本地图 |中文端由|cff33ffccWind|R汉化修复。
+
 ## Version: 1.13.2
 ## X-Date: 22.01.2024
-## Author: Shahopriest,|cff33ffccNineTears(Wind)|R
+## Author: Shahopriest,Wind
 ## X-Email: m4r3lk4@gmail.com
 ## X-Website: https://forum.turtle-wow.org/viewtopic.php?t=7958
 ## X-Category: Map
