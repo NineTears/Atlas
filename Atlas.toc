@@ -14,10 +14,6 @@
 ## SavedVariables: AtlasOptions
 ## OptionalDeps: Titan, myAddOns, EarthFeatureFrame
 
-Libs\AceLibrary\AceLibrary.lua
-Libs\AceOO-2.0\AceOO-2.0.lua
-Libs\AceAddon-2.0\AceAddon-2.0.lua
-Libs\AceLocale-2.2\AceLocale-2.2.lua
 Libs\Babble-Class-2.2\Babble-Class-2.2.lua
 Libs\Babble-Faction-2.2\Babble-Faction-2.2.lua
 Libs\Babble-ItemSet-2.2\Babble-ItemSet-2.2.lua
