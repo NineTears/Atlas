@@ -23,7 +23,7 @@
 
 	-- Wind汉化修复Turtle-WOW-zhCN端
 	-- https://github.com/NineTears/Atlas-Turtle-zhCN
-	-- Last update: 2024-01-24
+	-- Last update: 2024-11-04
 
 --************************************************
 -- Global Atlas Strings
@@ -599,7 +599,6 @@ AL:RegisterTranslations("zhCN", function() return {
 	["Nethergarde Keep"]  = "守望堡";
 	["Turtlhu, the Black Turtle of Doom"]  = "|CFF00FF00胡龟之子·末日黑龟";
 	["Nerubian Overseer"]  = "|CFF00FF00蛛怪监工";
-	["Dark Reaver of Karazhan"]  = "|CFF00FF00卡拉赞黑暗掠夺者";
 	["Ostarius of Uldum"]  = "|CFF00FF00奥兹塔里亚斯·奥丹姆";
 	["Concavius <Voidspawn>"]  = "|CFF00FF00空卡维斯 <虚空之子>";
 	
@@ -860,11 +859,11 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Lethon"] = "雷索";
 		-- TurtleWOW
 		["Turtlhu"] = "胡龟之子";
-		["Nerubian"] = "蛛魔";
+		["Nerubian"] = "蛛怪";
 		["Reaver"] = "掠夺者";
 		["Ostarius"] = "奥兹塔里亚斯";
 		["Concavius"] = "空卡维斯";
-		["Dark Reaver of Karazhan"] = "卡拉赞黑暗掠夺者";
+		["Dark Reaver of Karazhan"] = "|CFF00FF00卡拉赞黑暗掠夺者";
 		----------------------
 		["High Priestess Jeklik"] = "高阶祭司耶克里克";
 		["High Priest Venoxis"] = "高阶祭司温诺希斯";
