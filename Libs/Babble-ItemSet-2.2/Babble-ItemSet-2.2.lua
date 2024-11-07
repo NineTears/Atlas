@@ -7,7 +7,7 @@
 ]]
 -- Проверить ЗГ, АК20, АК40, Т3, разобраться с сетами AB
 
--- Wind汉化修复Turtle-WOW中文数据
+-- Wind&Sunelegy汉化修复Turtle-WOW中文数据
 -- https://github.com/NineTears/Libs-Turtle-zhCN
 -- Last update: 2023-12-03
 
@@ -224,7 +224,7 @@ BabbleItemSet:RegisterTranslations("enUS", function()
 		["Champion's Threads"] = true,
 		["Champion's Vestments"] = true,
 
-		-- Wind汉化修复Turtle-WOW-zhCN端
+		-- Wind&Sunelegy汉化修复Turtle-WOW-zhCN端
 		-- https://github.com/NineTears/Atlas-Turtle-zhCN
 		-- Last update: 2023-12-03
 

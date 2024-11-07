@@ -9,7 +9,7 @@ Description: A library to provide localizations for classes.
 Dependencies: AceLibrary, AceLocale-2.2
 ]]
 
--- Wind汉化修复Turtle-WOW中文数据
+-- Wind&Sunelegy汉化修复Turtle-WOW中文数据
 -- https://github.com/NineTears/Libs-Turtle-zhCN
 -- Last update: 2023-12-03
 
@@ -42,7 +42,7 @@ BabbleClass:RegisterTranslations("enUS", function()
 		["Shaman"] = true,
 		["Rogue"] = true,
 
-        -- Wind汉化修复Turtle-WOW-zhCN端
+        -- Wind&Sunelegy汉化修复Turtle-WOW-zhCN端
         -- https://github.com/NineTears/Atlas-Turtle-zhCN
         -- Last update: 2023-12-03
 

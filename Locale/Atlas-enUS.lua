@@ -1440,7 +1440,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Caverns of Time"] = true;
 		["Zul'Aman"] = true;
 
-	-- Wind汉化修复Turtle-WOW-zhCN端
+	-- Wind&Sunelegy汉化修复Turtle-WOW-zhCN端
 	-- https://github.com/NineTears/Atlas-Turtle-zhCN
 	-- Last update: 2024-11-04
 
@@ -2148,9 +2148,9 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Patchwerk"] = "帕奇维克";
 		["Grobbulus"] = "葛罗巴斯";
 		["Gluth"] = "古鲁斯";
-		["Feugen"] = "伏晨";
+		["Feugen"] = "费尔根";
 		["Stalagg"] = "斯塔拉格";
-		["Thaddius"] = "泰迪斯";
+		["Thaddius"] = "塔迪乌斯";
 		["Anub'Rekhan"] = "阿努布雷坎";
 		["Grand Widow Faerlina"] = "黑女巫法琳娜";
 		["Maexxna"] = "梅克丝娜";
@@ -2205,7 +2205,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["High Priest Venoxis"] = "高阶祭司温诺希斯";
 		["High Priest Thekal"] = "高阶祭司塞卡尔";
 		["High Priestess Arlokk"] = "哈卡莱先知";
-		["High Priestess Mar'li"] = "哈卡莱安魂者";
+		["High Priestess Mar'li"] = "高阶女祭司玛尔里";
 		["Jin'do the Hexxer"] = "妖术师金度";
 		["Bloodlord Mandokir"] = "血领主曼多基尔";
 		["Gahz'ranka"] = "加兹兰卡";
