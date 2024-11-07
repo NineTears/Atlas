@@ -195,7 +195,7 @@ AtlasMaps = {
 		{ BLUE.."A) "..AL["Entrance"] };
 		{ BLUE.."B) " };
 		{ GREY.."1) "..AL["Chronar"], NPC, 65113 };
-		{ GREY.."已移除) "..AL["Harbinger Aph'ygth"], NPC, 65114 };
+		{ GREY.."   "..AL["Harbinger Aph'ygth"].." (已移除)" , NPC, 65114 };
 		{ GREY.."2) "..AL["Epidamu"], NPC, 61575 };
 		{ GREY.."3) "..AL["Drifting Avatar of Sand"], NPC, 61316 };
 		{ GREY.."4) "..AL["Time-Lord Epochronos"], NPC, 65116 };
@@ -221,7 +221,7 @@ AtlasMaps = {
 		{ GREY.."3) "..AL["Black Bride"], NPC, 80850 };
 		{ GREY.."4) "..AL["Damian"], NPC, 80854 };
 		{ GREY.."5) "..AL["Volkan Cruelblade"], NPC, 80851 };
-		{ GREY.."6) "..AL["Arc'tiras"], NPC, 93107 };
+		{ GREY.."6) "..AL["Arc'tiras"].." (无直接掉落)", NPC, 93107 };
 		{ GREY.."7) "..AL["Vault Armory Equipment"], OBJECT, 2010867 };
 		{ "" };
 		{ GREY..INDENT..AL["Trash Mobs"] };
