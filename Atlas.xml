@@ -457,7 +457,7 @@
 						</Anchor>
 					</Anchors>
 				</Texture>
-				<FontString inherits="GameFontHighlight" text="|cffFF8400Atlas Wind&Sunelegy汉化修复">
+				<FontString inherits="GameFontHighlight" text="|cffFF8400Atlas   Wind Sunelegy汉化修复">
 					<Anchors>
 						<Anchor point="TOP">
 							<Offset>
