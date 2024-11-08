@@ -421,7 +421,7 @@ AL:RegisterTranslations("zhCN", function() return {
 	
 	--Naxxramas
 	["Archmage Tarsis Kir-Moldir"]  = "大法师塔希斯·基莫迪尔";
-	["Mr. Bigglesworth"]  = "比格沃斯";
+	["Mr. Bigglesworth"]  = "比格沃斯先生";
 	["Abomination Wing"]  = "憎恶翼";
 	["Spider Wing"]  = "地穴蜘蛛翼";
 	["Deathknight Wing"]  = "死亡骑士翼";
@@ -810,16 +810,16 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Princess Tempestria"] = "泰比斯蒂亚公主";
 		["Grethok the Controller"] = "黑翼控制者";
 		["Patchwerk"] = "帕奇维克";
-		["Grobbulus"] = "葛罗巴斯";
-		["Gluth"] = "古鲁斯";
+		["Grobbulus"] = "格罗布鲁斯";
+		["Gluth"] = "格拉斯";
 		["Feugen"] = "费尔根";
 		["Stalagg"] = "斯塔拉格";
 		["Thaddius"] = "塔迪乌斯";
 		["Anub'Rekhan"] = "阿努布雷坎";
 		["Grand Widow Faerlina"] = "黑女巫法琳娜";
-		["Maexxna"] = "梅克丝娜";
+		["Maexxna"] = "迈克斯纳";
 		["Instructor Razuvious"] = "教官拉苏维奥斯";
-		["Deathknight Understudy"] = "死亡骑士实习者";
+		["Deathknight Understudy"] = "死亡骑士学员";
 		["Gothik the Harvester"] = "收割者戈提克";
 		["Highlord Mograine"] = "大领主莫格莱尼";
 		["Thane Korth'azz"] = "库尔塔兹领主";
@@ -828,10 +828,10 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["The Four Horsemen"] = "四骑士";
 		["Noth the Plaguebringer"] = "瘟疫者诺斯";
 		["Heigan the Unclean"] = "肮脏的希尔盖";
-		["Loatheb"] = "憎恨者";
+		["Loatheb"] = "洛欧塞布";
 		["Sapphiron"] = "萨菲隆";
 		["Kel'Thuzad"] = "克尔苏加德";
-		["Lord Victor Nefarius"] = "维克多·奈法里奥斯";
+		["Lord Victor Nefarius"] = "维克多·奈法里奥斯领主";
 		["Nefarian"] = "奈法利安";
 		["Vaelastrasz the Corrupt"] = "堕落的瓦拉斯塔兹";
 		["Razorgore the Untamed"] = "狂野的拉佐格尔";
