@@ -84,7 +84,7 @@ AtlasORLocale = {
 	["Twilight Grove"] = "暮光森林";
 	["Vakkiz the Windrager"] = "『風怒者』瓦奇茲";
 	["Various"] = "多處";
-	["Ysondre"] = "伊索德雷";
+	["Ysondre"] = "伊森德雷";
 
 };
 end

@@ -6,7 +6,7 @@
 
 ## Version: 1.13.2
 ## X-Date: 22.01.2024
-## Author: Shahopriest,Wind
+## Author: Shahopriest, Wind, Sunelegy
 ## X-Email: m4r3lk4@gmail.com
 ## X-Website: https://forum.turtle-wow.org/viewtopic.php?t=7958
 ## X-Category: Map
