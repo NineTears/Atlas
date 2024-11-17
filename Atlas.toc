@@ -1,6 +1,6 @@
 ## Interface: 11200
-## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.23]|R
-## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.23]|R
+## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.24]|R
+## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.24]|R
 ## Notes: |CFF33AAFFAtlas |R副本地图 |中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 ## Notes-zhCN: |CFF33AAFFAtlas |R副本地图 |中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 
