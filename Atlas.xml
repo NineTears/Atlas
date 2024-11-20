@@ -29,7 +29,7 @@
 		</Size>
 		<Layers>
 			<Layer level="OVERLAY">
-				<FontString name="$parent_Text" inherits="GameFontHighlight" wraponspaces="false" justifyH="LEFT">
+				<FontString name="$parent_Text" inherits="GameFontNormal" wraponspaces="false" justifyH="LEFT">
 					<Size>
 						<AbsDimension x="330" y="15" />
 					</Size>
@@ -148,7 +148,7 @@
 						this:ClearFocus();
 					</OnEnterPressed>
 				</Scripts>
-				<FontString name="AtlasSearchString" inherits="GameFontNormal"></FontString>
+				<FontString name="AtlasSearchString" inherits="GameFontNormalSmall"></FontString>
 			</EditBox>
 			<Frame name="AtlasSwitchDD" inherits="UIDropDownMenuTemplate" />
   			<Button name="AtlasSwitchButton" inherits="UIPanelButtonTemplate2" parent="AtlasSearchEditBox">
@@ -277,7 +277,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontHighlightLarge" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontHighlight" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="20"/>
 							</Size>
@@ -303,7 +303,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -329,7 +329,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -355,7 +355,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -381,7 +381,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -457,7 +457,7 @@
 						</Anchor>
 					</Anchors>
 				</Texture>
-				<FontString inherits="GameFontHighlight" text="|cffFF8400Atlas   Wind Sunelegy汉化修复">
+				<FontString inherits="GameFontNormal" text="|cffFF8400Atlas  Wind-Sunelegy汉化修复">
 					<Anchors>
 						<Anchor point="TOP">
 							<Offset>
@@ -511,7 +511,7 @@
 	<Frame name="Atlas_WorldMap_Frame" parent="WorldMapFrame" hidden="true">
 		<Layers>
 			<Layer level="OVERLAY">
-				<FontString name="$Parent_Text" inherits="GameFontHighlightSmall">
+				<FontString name="$Parent_Text" inherits="GameFontNormal">
 					<Anchors>
 						<Anchor point="BOTTOM" relativeTo="WorldMapPositioningGuide">
 							<Offset>
