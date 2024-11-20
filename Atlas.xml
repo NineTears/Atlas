@@ -29,7 +29,7 @@
 		</Size>
 		<Layers>
 			<Layer level="OVERLAY">
-				<FontString name="$parent_Text" inherits="GameFontHighlightNormal" wraponspaces="false" justifyH="LEFT">
+				<FontString name="$parent_Text" inherits="GameFontHighlight" wraponspaces="false" justifyH="LEFT">
 					<Size>
 						<AbsDimension x="330" y="15" />
 					</Size>
@@ -277,7 +277,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontHighlightNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontHighlight" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="20"/>
 							</Size>
