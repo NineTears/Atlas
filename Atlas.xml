@@ -148,7 +148,7 @@
 						this:ClearFocus();
 					</OnEnterPressed>
 				</Scripts>
-				<FontString name="AtlasSearchString" inherits="GameFontNormalSmall"></FontString>
+				<FontString name="AtlasSearchString" inherits="GameFontNormal"></FontString>
 			</EditBox>
 			<Frame name="AtlasSwitchDD" inherits="UIDropDownMenuTemplate" />
   			<Button name="AtlasSwitchButton" inherits="UIPanelButtonTemplate2" parent="AtlasSearchEditBox">
@@ -277,7 +277,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontHighlight" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontHighlightLarge" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="20"/>
 							</Size>
@@ -303,7 +303,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -329,7 +329,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -355,7 +355,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -381,7 +381,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -457,7 +457,7 @@
 						</Anchor>
 					</Anchors>
 				</Texture>
-				<FontString inherits="GameFontNormal" text="|cffFF8400Atlas  Wind-Sunelegy汉化修复">
+				<FontString inherits="GameFontHighlight" text="|cffFF8400Atlas  Wind-Sunelegy汉化修复">
 					<Anchors>
 						<Anchor point="TOP">
 							<Offset>
