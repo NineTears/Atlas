@@ -303,7 +303,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -329,7 +329,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -355,7 +355,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
@@ -381,7 +381,7 @@
 				</Anchors>
 				<Layers>
 					<Layer level="OVERLAY">
-						<FontString name="$parent_Text" inherits="GameFontNormal" justifyH="LEFT">
+						<FontString name="$parent_Text" inherits="GameFontNormalSmall" justifyH="LEFT">
 							<Size>
 								<AbsDimension x="351" y="15"/>
 							</Size>
