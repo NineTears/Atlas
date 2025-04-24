@@ -104,9 +104,10 @@ Atlas_DropDownLayouts = {
 			"StormwindVault", -- TurtleWOW
 			"TheDeadmines",
 			"TheStockade",
-			"TheSunkenTemple",
+            "TheSunkenTemple",
+			"TowerofKarazhan", -- -- TurtleWOW 1.17.2
 			"Uldaman",
-			"ZulGurub",
+            "ZulGurub",
 		},
 		[ATLAS_DDL_CONTINENT_KALIMDOR] = {
 			"BlackfathomDeeps",
@@ -197,7 +198,7 @@ Atlas_DropDownLayouts = {
 			"TheSunkenTemple",
 			"Uldaman",
 			"WailingCaverns",
-			"ZulFarrak",
+            "ZulFarrak",
 		},
 		[ATLAS_DDL_PARTYSIZE_10] = {
 			"BlackrockSpireLower",
@@ -214,7 +215,8 @@ Atlas_DropDownLayouts = {
 			"MoltenCore",
 			"Naxxramas",
 			"OnyxiasLair",
-			"TheTempleofAhnQiraj",
+            "TheTempleofAhnQiraj",
+			"TowerofKarazhan", -- -- TurtleWOW 1.17.2
 		},
 		[ATLAS_DDL_WORLDBOSSES] = {
 			"Azuregos",
@@ -287,7 +289,7 @@ Atlas_DropDownLayouts = {
 			"TheSunkenTemple",
 			"Uldaman",
 			"WailingCaverns",
-			"ZulFarrak",
+            "ZulFarrak",
 		},
 		[ATLAS_DDL_TYPE_RAIDS] = {
 			"BlackwingLair",
@@ -299,7 +301,8 @@ Atlas_DropDownLayouts = {
 			"Naxxramas",
 			"OnyxiasLair",
 			"TheRuinsofAhnQiraj",
-			"TheTempleofAhnQiraj",
+            "TheTempleofAhnQiraj",
+			"TowerofKarazhan", -- -- TurtleWOW 1.17.2
 			"ZulGurub",
 		},
 		[ATLAS_DDL_WORLDBOSSES] = {
@@ -385,7 +388,8 @@ Atlas_DropDownLayouts = {
 			"Naxxramas",
 			"OnyxiasLair",
 			"TheRuinsofAhnQiraj",
-			"TheTempleofAhnQiraj",
+            "TheTempleofAhnQiraj",
+			"TowerofKarazhan", -- -- TurtleWOW 1.17.2
 			"ZulGurub",
 		},
 		[ATLAS_DDL_WORLDBOSSES] = {
@@ -539,7 +543,8 @@ Atlas_DropDownLayouts = {
 			"MoltenCore",
 			"OnyxiasLair",
 			"BlackwingLair",
-			"TheTempleofAhnQiraj",
+            "TheTempleofAhnQiraj",
+			"TowerofKarazhan",
 			"Naxxramas",
 		},
 		[ATLAS_DDL_WORLDBOSSES] = {

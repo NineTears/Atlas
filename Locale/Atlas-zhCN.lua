@@ -1217,7 +1217,17 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Elder Mottled Boar"] = "老杂斑野猪";
 		["Ancient Core Hound"] = "上古熔火恶犬";
 		["Sorcerer Ashcrombe"] = "巫师阿克鲁比";
-
+		-- Kara40 TurtleWOW 1.17.2
+		["King (Chess fight)"] = "国王议会",
+		["Sanv Tas'dal"] = "桑夫·塔斯达尔",
+		["Kruul"] = "库鲁尔",
+		["Ley-Watcher Incantagos"] = "魔网观察者因塔苟斯",
+		["Anomalus"] = "阿诺玛鲁斯",
+		["Echo of Medivh"] = "麦迪文的回响",
+		["Keeper Gnarlmoon"] = "守护者纳尔穆恩",
+		["Rupturan"] = "破碎者鲁普图兰",
+		["Mephistroth"] = "孟菲斯托斯",
+		["Unknown boss Upper Kara"]  = "其他",
 --[[
 Name: Babble-Zone-2.2
 Revision: $Rev: 17779 $
@@ -1291,6 +1301,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Loch Modan"] = "洛克莫丹";
 		["Lower Blackrock Spire"] = "[55-60] 黑石塔下层";
 		["Lower Karazhan Halls"] = "|CFFFF0000[团队] |CFF00FF00卡拉赞下层大厅"; -- TurtleWOW
+		["Tower of Karazhan"] = "|CFFFF0000[团队] |CFF00FF00卡拉赞之塔"; -- TurtleWOW
 		["Maraudon"] = "[45-55] 玛拉顿";
 		["Menethil Harbor"] = "米奈希尔港";
 		["Molten Core"] = "|CFFFF0000[团队]|R 熔火之心";

@@ -254,7 +254,9 @@ AtlasMaps = {
 		LevelRange = "58-60";
 		MinLevel = "58";
 		PlayerLimit = "10";
-		Continent = AL["Eastern Kingdoms"];
+        Continent = AL["Eastern Kingdoms"],
+		{ BLUE.."A) "..AL["Entrance"] };
+		{ BLUE.."B) " };
 		{ GREY.."1) "..AL["Master Blacksmith Rolfen"], NPC, 61319 };
 		{ GREY.."2) "..AL["Brood Queen Araxxna"], NPC, 61221 };
 		{ GREY.."3) "..AL["Grizikil"], NPC, 61224 };
@@ -264,6 +266,29 @@ AtlasMaps = {
 		{ "" };
 		{ GREY..INDENT..AL["Trash Mobs"] };
 		{ GREY..INDENT..AL["LKH Enchants"] };
+    },
+		--Kara40 TurtleWOW
+	TowerofKarazhan = {
+		ZoneName = { AL["Tower of Karazhan"],  };
+		Acronym = "TOK";
+		Location = { AL["Deadwind Pass"], 41};
+		LevelRange = "60-63";
+		MinLevel = "60";
+		PlayerLimit = "40";
+        Continent = AL["Eastern Kingdoms"],
+		{ BLUE.."A) "..AL["Entrance"] };
+		{ BLUE.."B) " };
+		{ GREY.."1) "..AL["Keeper Gnarlmoon"], NPC, 61939 };
+		{ GREY.."2) "..AL["Ley-Watcher Incantagos"], NPC, 61946 };
+        { GREY.."3) "..AL["Anomalus"], NPC, 61951 },
+		{ GREY.."4) "..AL["King (Chess fight)"], NPC, 59967 };
+		{ GREY.."5) "..AL["Echo of Medivh"], NPC, 61958 };
+        { GREY.."6) "..AL["Sanv Tas'dal"], NPC, 59981 },
+		{ GREY.."7) "..AL["Rupturan"], NPC, 59961 },
+        { GREY.."8) "..AL["Kruul"], NPC, 59991 },
+		{ GREY.."9) "..AL["Mephistroth"], NPC, 93333 };
+		{ "" };
+		{ GREY..INDENT..AL["Trash Mobs"] };
 	};
 		--EmeraldSanctum TurtleWOW
 	EmeraldSanctum = {

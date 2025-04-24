@@ -1149,7 +1149,7 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Lord Blackwald II"] = true;
 		["Moroes"] = true;
 		["Harlow Family Chest"] = true;
-		["Genn Greymane"] = true;
+        ["Genn Greymane"] = true,
 		-- EmeraldSanctum TurtleWOW 1.17.0
 		["Erennius"] = true;
 		["Solnius the Awakener"] = true;
@@ -1261,13 +1261,23 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Rethilgore"] = true;
 		["Atiesh"] = true;
 		["Stratholme Courier"] = true;
-                ["Elder Mottled Boar"] = true;	
-                ["Stoneskin Gargoyle"] = true;
+        ["Elder Mottled Boar"] = true;	
+        ["Stoneskin Gargoyle"] = true;
 		["Gurubashi Berserker"] = true;
-                ["Elder Mottled Boar"] = true;
+        ["Elder Mottled Boar"] = true;
 		["Ancient Core Hound"] = true;
 		["Sorcerer Ashcrombe"] = true;
-
+		-- Kara40 TurtleWOW 1.17.2
+		["King (Chess fight)"] = true,
+		["Sanv Tas'dal"] = true,
+		["Kruul"] = true,
+		["Ley-Watcher Incantagos"] = true,
+		["Anomalus"] = true,
+		["Echo of Medivh"] = true,
+		["Keeper Gnarlmoon"] = true,
+		["Rupturan"] = true,
+		["Mephistroth"] = true,
+		["Unknown boss Upper Kara"]  = true,
 --[[
 Name: Babble-Zone-2.2
 Revision: $Rev: 17779 $
@@ -1340,7 +1350,8 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Karazhan Crypt"] = true; -- TurtleWOW
 		["Loch Modan"] = true;
 		["Lower Blackrock Spire"] = true;
-		["Lower Karazhan Halls"] = true; -- TurtleWOW
+        ["Lower Karazhan Halls"] = true, -- TurtleWOW
+		["Tower of Karazhan"] = true; -- TurtleWOW
 		["Maraudon"] = true;
 		["Menethil Harbor"] = true;
 		["Molten Core"] = true;
@@ -2552,7 +2563,18 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Gurubashi Berserker"] = "古拉巴什狂暴者";
 		["Elder Mottled Boar"] = "老杂斑野猪";
 		["Ancient Core Hound"] = "上古熔火恶犬";
-		["Sorcerer Ashcrombe"] = "巫师阿克鲁比";
+        ["Sorcerer Ashcrombe"] = "巫师阿克鲁比",
+		-- Kara40 TurtleWOW 1.17.2
+		["King (Chess fight)"] = "国王议会",
+		["Sanv Tas'dal"] = "桑夫·塔斯达尔",
+		["Kruul"] = "库鲁尔",
+		["Ley-Watcher Incantagos"] = "魔网观察者因塔苟斯",
+		["Anomalus"] = "阿诺玛鲁斯",
+		["Echo of Medivh"] = "麦迪文的回响",
+		["Keeper Gnarlmoon"] = "守护者纳尔穆恩",
+		["Rupturan"] = "破碎者鲁普图兰",
+		["Mephistroth"] = "孟菲斯托斯",
+		["Unknown boss Upper Kara"]  = "其他",
 
 --[[
 Name: Babble-Zone-2.2
@@ -2626,7 +2648,8 @@ Dependencies: AceLibrary, AceLocale-2.2
 		["Karazhan Crypt"] = "[58-60] |CFF00FF00卡拉赞墓穴"; -- TurtleWOW
 		["Loch Modan"] = "洛克莫丹";
 		["Lower Blackrock Spire"] = "[55-60] 黑石塔下层";
-		["Lower Karazhan Halls"] = "|CFFFF0000[团队] |CFF00FF00卡拉赞下层大厅"; -- TurtleWOW
+        ["Lower Karazhan Halls"] = "|CFFFF0000[团队] |CFF00FF00卡拉赞下层大厅", -- TurtleWOW
+		["Tower of Karazhan"] = "|CFFFF0000[团队] |CFF00FF00卡拉赞之塔"; -- TurtleWOW
 		["Maraudon"] = "[45-55] 玛拉顿";
 		["Menethil Harbor"] = "米奈希尔港";
 		["Molten Core"] = "|CFFFF0000[团队]|R 熔火之心";

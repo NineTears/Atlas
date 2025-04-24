@@ -170,7 +170,7 @@ Atlas_OutdoorZoneToAtlas = {
 	["Ashenvale"] =				"BlackfathomDeepsEnt";
 	--["Ashenvale"] =				"TheCrescentGrove"; -- TurtleWOW
 	["Badlands"] =					"UldamanEnt";
-	["Blackrock Mountain"] =			"BlackrockMountainEnt";
+	["Blackrock Mountain"] =		"BlackrockMountainEnt";
 	["Burning Steppes"] =			"HateforgeQuarry"; -- TurtleWOW
 	["Deadwind Pass"] =				"KarazhanCrypt"; -- TurtleWOW
 	["Desolace"] =					"MaraudonEnt";
@@ -179,13 +179,13 @@ Atlas_OutdoorZoneToAtlas = {
 	["Searing Gorge"] =				"BlackrockMountainEnt";
 	["Swamp of Sorrows"] =			"TheSunkenTempleEnt";
 	["Tanaris"] =					"ZulFarrak";
-	--["Tanaris"] =				"CavernsOfTimeBlackMorass"; -- TurtleWOW
+	--["Tanaris"] =					"CavernsOfTimeBlackMorass"; -- TurtleWOW
 	["The Barrens"] =				"WailingCavernsEnt";
 	--["The Barrens"] =				"RazorfenKraul";
 	--["The Barrens"] =				"RazorfenDowns";
 	["Tirisfal Glades"]	=			"SMEnt";
 	["Westfall"] =					"TheDeadminesEnt";
-	["Orgrimmar"] =				"RagefireChasm";
+	["Orgrimmar"] =					"RagefireChasm";
 	["Dustwallow Marsh"] =			"OnyxiasLair";
 	["Silithus"] =					"TheTempleofAhnQiraj";
 	--["Silithus"] =				"TheRuinsofAhnQiraj";
@@ -195,7 +195,8 @@ Atlas_OutdoorZoneToAtlas = {
 	--["Eastern Plaguelands"] =		"Naxxramas";
 	["Stormwind City"] =			"TheStockade";
 	--["Stormwind City"] =			"StormwindVault"; -- TurtleWOW
-	["Stranglethorn Vale"] =			"ZulGurub";
+    ["Stranglethorn Vale"] = 		"ZulGurub",
+	["Tower of Karazhan"] =			"TowerofKarazhan";
 };
 
 function Atlas_FreshOptions()

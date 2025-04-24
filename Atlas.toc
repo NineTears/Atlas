@@ -1,10 +1,10 @@
 ## Interface: 11200
-## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.25]|R
-## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.25]|R
+## Title: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.28]|R
+## Title-zhCN: |CFF33AAFFAtlas |R副本地图 |cffff1450[1.28]|R
 ## Notes: |CFF33AAFFAtlas |R副本地图 |中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 ## Notes-zhCN: |CFF33AAFFAtlas |R副本地图 |中文端由|cff33ffccWind&Sunelegy|R汉化修复。
 
-## Version: 1.13.2
+## Version: 1.28
 ## X-Date: 22.01.2024
 ## Author: Shahopriest, Wind, Sunelegy
 ## X-Email: m4r3lk4@gmail.com
